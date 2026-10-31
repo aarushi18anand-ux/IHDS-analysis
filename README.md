@@ -77,4 +77,4 @@ Frameworks such as the family stress model suggest that economic strain can affe
 ## Citation and acknowledgements
 Data: Desai, Sonalde, and Vanneman, Reeve. *India Human Development Survey-II (IHDS-II), 2011-12.* Inter-university Consortium for Political and Social Research [distributor], 2018-08-08. https://doi.org/10.3886/ICPSR36151.v6
 
-Analysis also used help of step by step with AI tutoring
+Analysis also used help of some AI tutoring
