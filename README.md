@@ -73,4 +73,8 @@ Studying parenting and coping would need data or a study design that measures th
 
 Frameworks such as the family stress model suggest that economic strain can affect parents' wellbeing and parenting, which in turn shapes children's development. I treat this as a hypothesis consistent with earlier research, not something my analysis demonstrates.
 
-Studying parenting and coping would need data or a study design that measures them directly. This is the direction I would like to pursue in graduate study.
+
+## Citation and acknowledgements
+Data: Desai, Sonalde, and Vanneman, Reeve. *India Human Development Survey-II (IHDS-II), 2011-12.* Inter-university Consortium for Political and Social Research [distributor], 2018-08-08. https://doi.org/10.3886/ICPSR36151.v6
+
+Analysis also used help of step by step with AI tutoring
